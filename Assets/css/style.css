@@ -3,6 +3,12 @@ body {
   font-size: 16px;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 textarea {
   background: transparent;
   border: none;
@@ -28,6 +34,10 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+}
+
+#hour-17 {
+  margin-bottom: 50px;
 }
 
 .past {
