@@ -1,4 +1,4 @@
-# Third-Party APIs: Work Day Scheduler
+# Work Day Scheduler
 A simple calendar application that allows a user to save events for each hour of the day. 
 
 ## Description
@@ -9,10 +9,10 @@ Web application users can use to schedule their day.
 
 To use this project, you can review the html, css, and JavaScript files. To test your own suggestions on what to adjust, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). Try any changes in the console panel and see then update in real time. 
 
-Link to the [deployed application](). 
+Link to the [deployed application](https://amandajduva.github.io/work-day-scheduler/). 
 
 Screenshot of deployed application:
-![deployed application]()
+![deployed application](/Assets/images/work-day-scheduler_screenshot.png)
 
 ## Credits
 
