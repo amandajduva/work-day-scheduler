@@ -16,7 +16,7 @@ Screenshot of deployed application:
 
 ## Credits
 
-I received starter code for this application from this [GitHub repository](https://github.com/coding-boot-camp/crispy-octo-meme.git). I received support from a tutor to .  
+I received starter code for this application from this [GitHub repository](https://github.com/coding-boot-camp/crispy-octo-meme.git). I received support from a tutor to fix functions in the JavaScript.  
 
 ## License
 
